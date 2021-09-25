@@ -1,0 +1,21 @@
+{
+  "name": "micro-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx lerna run start --parallel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephGu/micro-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephGu/micro-frontend/issues"
+  },
+  "homepage": "https://github.com/JosephGu/micro-frontend#readme",
+  "devDependencies": {}
+}
